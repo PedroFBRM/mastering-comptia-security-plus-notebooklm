@@ -1,0 +1,16 @@
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários de editores
+*.tmp
+*.swp
+*.swo
+*~
+
+# Configurações locais do Visual Studio Code
+.vscode/
+
+# Arquivos de ambiente e credenciais
+.env
+.env.*
